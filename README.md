@@ -78,13 +78,13 @@ npm install -g @angular/cli
 Create workspace:
 
 ```
-ng new [PROJECT NAME]
+ng new [PROJECT SsomsakTH]
 ```
 
 Run the application:
 
 ```
-cd [PROJECT NAME]
+cd [PROJECT SsomsakTH]
 ng serve
 ```
 
